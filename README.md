@@ -21,4 +21,4 @@ Website features::
   3) Generation of new data (Randomly generate new data).
 3) Time and Space complexity of algorithm being visualized. Time complexity of best average and worst cases are displayed
 
-Take a look at live version: 
+Take a look at live version: https://sowmya421.github.io/Sorting_visualizer/
