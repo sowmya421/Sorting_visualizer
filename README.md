@@ -1,8 +1,7 @@
 # Sorting_Visualizer
 
-A web application showcasing the inner workings of sorting algorithms.
+This website displays clearly the exact steps which takes place while sorting an array using various algorithms Like::
 
-Implemented algorithms:
 1) Bubble sort
 2) Selection sort
 3) Insertion sort
@@ -10,16 +9,16 @@ Implemented algorithms:
 5) Quick sort
 6) Heap sort
 
-Features:
+Website features::
 1) Colored representation of step being executed.
-  1.1) Blue:default
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization (5 speed levels)
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
+  * Blue:default
+  * Yellow: Being compared
+  * Red: Identified as positioned at incorrect place and to be moved
+  * Green: Positioned correctly
+2) Controlling the visualizer
+  1) Speed of visualization (5 speed levels)
+  2) Data size ()
+  3) Generation of new data (Randomly generate new data).
+3) Time and Space complexity of algorithm being visualized. Time complexity of best average and worst cases are displayed
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+Take a look at live version: 
